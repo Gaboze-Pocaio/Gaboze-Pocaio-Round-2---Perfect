@@ -1,7 +1,7 @@
 # Gaboze Pocaio - Round2
 > This is it!
 
-![Gaboze Pocaio](https://raw.githubusercontent.com/32teeth/GabozePocaio-Round2/master/images/logo.png)
+![Gaboze Pocaio](images/logo.png)
 
 Based on the popularity of the original [Gaboze Pocaio](https://github.com/GameboyZero/GabozePocaio) and it's many updates. We have taken the *Gaboze Pocaio - Plus Edition* which featured the 2.6" TFT *(ILI9342)* and added a few more features
 
