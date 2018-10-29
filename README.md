@@ -14,7 +14,7 @@ Project Code Name: ***'Play It Again'***
 - 2.6" TFT LCD
 - USB peripheral support for 3.3v accessories (ie: keyboards)
 - Brightness Control Thumbwheel
-- Volumne Control Thumbwheel
+- Volume Control Thumbwheel
 - Power LED - 3mm diffused
 - Gameboy button layout interface
 - Through Hole Raspberry Pi Zero Mounting Header
@@ -28,4 +28,12 @@ Project Code Name: ***'Play It Again'***
 - [x] [Lakka](http://www.lakka.tv/)
 - [x] [RetroPie](https://retropie.org.uk/)
 
-For [Lakka](http://www.lakka.tv/) implementation you can follow the ['paint by numbers' tutorial](https://github.com/32teeth/Lakka-For-Gaboze-Pocaio)
+*For [Lakka](http://www.lakka.tv/) implementation you can follow the ['paint by numbers' tutorial](https://github.com/32teeth/Lakka-For-Gaboze-Pocaio)*
+
+## Not included
+> these things are easily found on the internet
+
+* Raspberry Pi Zero W
+* LiPo Battery
+* Micro SD Card
+* Gameboy Pocket Shell
