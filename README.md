@@ -43,6 +43,8 @@ Project Code Name: ***'Play It Again'***
 
 An adoption from the *Gaboze Pocaio - Plus Edition*. The screen is now a 2.6" TFT, which fills the screen area of the Game Boy Pocket shell much better. No more resizing of the video driver output!
 
+![Lakka or RetroPie](images/features_003.jpg)
+
 ##### Brightness Control
 > Mechanical Adjustment FTW
 
