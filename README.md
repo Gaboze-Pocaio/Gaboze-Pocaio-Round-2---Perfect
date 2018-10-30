@@ -16,11 +16,18 @@ Project Code Name: ***'Play It Again'***
 - Brightness Control Thumbwheel
 - Volume Control Thumbwheel
 - Power LED - 3mm diffused
-- Gameboy button layout interface
+- New Conductive Pads
 - Through Hole Raspberry Pi Zero Mounting Header
 - Battery Charger (TP4056 Module)
 - Headphone Jack (LM4857)
 - Speaker capability (LM4857)
+- Audio Amp (LM4857)
+
+| Top Side Features | Bottom Side Features |
+| - | - |
+| ![Top Side Features](images/features_001.jpg) | ![Bottom Side Features](images/features_002.jpg) |
+
+
 
 ### Platform Support:
 
