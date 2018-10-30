@@ -25,7 +25,7 @@ Project Code Name: ***'Play It Again'***
 
 | Top Side Features | Bottom Side Features |
 | - | - |
-| ![Top Side Features](images/features_001.jpg) | ![Bottom Side Features](images/features_002.jpg) |
+| <img src=images/features_001.jpg width=50%/> | <img src=images/features_002.jpg width=50%/> |
 
 
 
