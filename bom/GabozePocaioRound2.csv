@@ -1,0 +1,20 @@
+Designator,Description,Manufacturer Part Number,Purchase Link,Quantity
+D1,DIODE SCHOTTKY 20V 1A SOD123FL,SM5817PL-TP,https://www.digikey.ca/product-detail/en/micro-commercial-co/SM5817PL-TP/SM5817PL-TPMSCT-ND/1793410,1
+R2,RES SMD 1.5K OHM 0.1% 1/4W 0805,ERJ-PB6B1501V,https://www.digikey.ca/product-detail/en/panasonic-electronic-components/ERJ-PB6B1501V/P20612CT-ND/6214867,1
+R3,RES 100K OHM 5% 1/4W 0805,RPC0805JT100KCT,https://www.digikey.ca/product-detail/en/stackpole-electronics-inc/RPC0805JT100K/RPC0805JT100KCT-ND/5766007,1
+R4,RES 150 OHM 1% 1/4W 0805,RNCP0805FTD150R,https://www.digikey.ca/product-detail/en/stackpole-electronics-inc/RNCP0805FTD150R/RNCP0805FTD150RCT-ND/2240550,1
+"R5, R10",Replacement Volume Switch for Game boy,N/A,https://www.aliexpress.com/item/Replacement-Volume-Switch-for-Game-boy-for-GBA-GBC-Motherboard-Potentiomete-100pcs-lot/32830491244.html,2
+C1,CAP TANT 100UF 4V 20% 1206,F930G107MAA,https://www.digikey.ca/product-detail/en/avx-corporation/F930G107MAA/478-8134-1-ND/4005954,1
+"C3,C4",CAP CER 1UF 25V X7R 0805,C0805C105K3RACTU,https://www.digikey.ca/product-detail/en/kemet/C0805C105K3RACTU/399-8004-1-ND/3471727,2
+C2,CAP CER 220PF 50V X7R 0805,C0805C221M5RACTU,https://www.digikey.ca/product-detail/en/kemet/C0805C221M5RACTU/399-8039-1-ND/3471762,1
+J1,CONN JACK STEREO 3.5MM R/A,CP1-3525NG-PI-ND,https://www.digikey.ca/product-detail/en/cui-inc/SJ1-3525NG-PI/CP1-3525NG-PI-ND/2295991,1
+J2,SPEAKER 8OHM 250MW TOP PORT 80DB,PSR-20F08S-JQ,https://www.digikey.ca/product-detail/en/mallory-sonalert-products-inc/PSR-20F08S-JQ/458-1122-ND/2071438,1
+J3,CONN HEADER PH SIDE 2POS 2MM SMD,S2B-PH-SM4-TB(LF)(SN,https://www.digikey.ca/product-detail/en/jst-sales-america-inc/S2B-PH-SM4-TB(LF)(SN)/455-1749-1-ND/926846,1
+J4,CONN RCPT USB MICRO B SMD,ZX62D-B-5P8(30),https://www.digikey.ca/product-detail/en/hirose-electric-co-ltd/ZX62D-B-5P8-30/H125272CT-ND/5994758,1
+U1,IC AMP AUDIO PWR 1W MONO 8SOIC,LM4875MX-NOPB,https://www.digikey.ca/product-detail/en/texas-instruments/LM4875MX-NOPB/296-35282-1-ND/3738990,1
+LED1,LED RED DIFFUSED 3MM ROUND T/H,151031SS04000,https://www.digikey.ca/product-detail/en/wurth-electronics-inc/151031SS04000/732-5005-ND/4489979,1
+U$1,SWITCH SLIDE SPDT 300MA 4V,MA12RTR,https://www.digikey.ca/product-detail/en/apem-inc/MA12RTR/679-1847-1-ND/1973774,1
+U$2,2.6 inch TFT liquid horizontal screen ILI9342 3/4 line SPI MCU8 bit 16 touch,N/A,https://www.aliexpress.com/item/-/32861496981.html,1
+PI1,"CONN HEADER .100"" 40POS SNGL TIN",TLW-120-06-T-D,https://www.digikey.ca/product-detail/en/samtec-inc/TLW-120-06-T-D/SAM1097-20-ND/1104960,1
+POWER1,Lithium Battery Charging Board,N/A,https://www.aliexpress.com/item/Free-Shipping-1PCS-5V-Micro-USB-1A-18650-Lithium-Battery-Charging-Board-With-Protection-Charger-Module/32476957358.html,1
+"POGO1, POGO2",ULTRA LOW PROFILE SPRING PIN,0965-0-15-20-80-14-11-0,https://www.digikey.ca/product-detail/en/0965-0-15-20-80-14-11-0/ED1649-ND/2784013,2
