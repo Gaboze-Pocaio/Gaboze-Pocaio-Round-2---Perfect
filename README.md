@@ -14,7 +14,7 @@ Project Code Name: ***'Play It Again'***
 > Things you can find on this kit
 
 - 2.6" TFT LCD
-- USB peripheral support for 3.3v accessories (ie: keyboards)
+- USB peripheral support for *3.3v accessories* (ie: keyboards)
 - Brightness Control Thumbwheel
 - Volume Control Thumbwheel
 - Power LED - 3mm diffused
