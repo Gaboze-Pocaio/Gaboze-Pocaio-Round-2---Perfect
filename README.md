@@ -106,3 +106,8 @@ In order to complete your build. You will need:
 [Lakka](https://github.com/32teeth/GabozePocaio-Round2/releases/tag/Lakka)
 
 
+### Get In Touch
+
+|    [<img src="https://raw.githubusercontent.com/wiki/GameboyZero/GabozePocaio/images/icons/github.png" width="40px">](https://github.com/32teeth)[<img src="https://raw.githubusercontent.com/wiki/GameboyZero/GabozePocaio/images/icons/instagram.png" width="40px">](https://www.instagram.com/gabozepocaio/)[<img src="https://raw.githubusercontent.com/wiki/GameboyZero/GabozePocaio/images/icons/messenger.png" width="40px">](https://www.facebook.com/messages/t/gabozepocaio)[<img src="https://raw.githubusercontent.com/wiki/GameboyZero/GabozePocaio/images/icons/paypal.png" width="40px">](https://www.paypal.me/32teeth/5USD)  |
+| ---- |
+| Find us on the internet and lets chat |
