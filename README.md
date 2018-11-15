@@ -98,3 +98,11 @@ In order to complete your build. You will need:
 - LiPo Battery
 - Micro SD Card
 - Gameboy Pocket Shell
+
+## Releases
+> Retro Pie or Lakka - You Decide
+
+[Retro Pie](https://github.com/32teeth/GabozePocaio-Round2/releases/tag/RetroPie)
+[Lakka](https://github.com/32teeth/GabozePocaio-Round2/releases/tag/Lakka)
+
+
