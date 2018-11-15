@@ -3,6 +3,16 @@
 
 Based on the popularity of the original [Gaboze Pocaio](https://github.com/GameboyZero/GabozePocaio) and it's many updates. We have taken the *Gaboze Pocaio - Plus Edition* which featured the 2.6" TFT *(ILI9342)* and added a few more features
 
+-----
+
+# Where Can I Buy One
+> You can purchase an assembled Gaboze Pocaio - Round 2 on [Tindie](https://www.tindie.com/products/thirtytwoteeth/gaboze-pocaio-round-2/)
+
+[<img src="https://d2ss6ovg47m0r5.cloudfront.net/images/tindie-logo.png">](https://www.tindie.com/products/thirtytwoteeth/gaboze-pocaio-round-2/)
+
+-----
+
+
 Project Code Name: ***'Play It Again'***
 
 ## Introduction
