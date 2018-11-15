@@ -102,8 +102,9 @@ In order to complete your build. You will need:
 ## Releases
 > Retro Pie or Lakka - You Decide
 
-[Retro Pie](https://github.com/32teeth/GabozePocaio-Round2/releases/tag/RetroPie)
-[Lakka](https://github.com/32teeth/GabozePocaio-Round2/releases/tag/Lakka)
+#### [Retro Pie](https://github.com/32teeth/GabozePocaio-Round2/releases/tag/RetroPie)
+
+#### [Lakka](https://github.com/32teeth/GabozePocaio-Round2/releases/tag/Lakka)
 
 
 ### Get In Touch
