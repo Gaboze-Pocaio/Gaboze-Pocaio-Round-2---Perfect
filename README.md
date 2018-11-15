@@ -1,8 +1,3 @@
-# ![Gaboze Pocaio](images/logo.png)
-> This is it!
-
-Based on the popularity of the original [Gaboze Pocaio](https://github.com/GameboyZero/GabozePocaio) and it's many updates. We have taken the *Gaboze Pocaio - Plus Edition* which featured the 2.6" TFT *(ILI9342)* and added a few more features
-
 -----
 
 # Where Can I Buy One
@@ -12,6 +7,10 @@ Based on the popularity of the original [Gaboze Pocaio](https://github.com/Gameb
 
 -----
 
+# ![Gaboze Pocaio](images/logo.png)
+> This is it!
+
+Based on the popularity of the original [Gaboze Pocaio](https://github.com/GameboyZero/GabozePocaio) and it's many updates. We have taken the *Gaboze Pocaio - Plus Edition* which featured the 2.6" TFT *(ILI9342)* and added a few more features
 
 Project Code Name: ***'Play It Again'***
 
