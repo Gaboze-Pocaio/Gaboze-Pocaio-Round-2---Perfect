@@ -82,7 +82,7 @@ This is a 3.3V USB peripheral support, like keyboards (not the LED mechanical on
 
 One of the most requested features is to be able to use your keyboard and terminal without having to connect to the network, SSH, SCP, or FTP.
 
-##### Power LEd
+##### Power LED
 > Domed and diffused
 
 We replaced the surface mount power indicator LED with a through hole domed and diffused 3mm LED. This fits perfectly in the LED hole of the original and aftermarket *Game Boy Pocket* shell
@@ -102,9 +102,18 @@ In order to complete your build. You will need:
 ## Releases
 > Retro Pie or Lakka - You Decide
 
-#### [Retro Pie](https://github.com/32teeth/GabozePocaio-Round2/releases/tag/RetroPie)
+* [Retro Pie](https://github.com/32teeth/GabozePocaio-Round2/releases/tag/RetroPie)
+* [Lakka](https://github.com/32teeth/GabozePocaio-Round2/releases/tag/Lakka)
 
-#### [Lakka](https://github.com/32teeth/GabozePocaio-Round2/releases/tag/Lakka)
+### Direct Downloads
+
+#### Retro Pie
+* [IMG](http://gameboy.32teeth.org/Gaboze-Round2-RetroPie.img)
+* [GZIP](http://gameboy.32teeth.org/Gaboze-Round2-RetroPie.gz)
+
+#### Lakka
+* [IMG](http://gameboy.32teeth.org/Gaboze-Round2-Lakka.img)
+* [GZIP](http://gameboy.32teeth.org/Gaboze-Round2-Lakka.gz)
 
 
 ### Get In Touch
