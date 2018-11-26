@@ -1,3 +1,12 @@
+-----
+
+# Where Can I Buy One
+> You can purchase an assembled Gaboze Pocaio - Round 2 on [Tindie](https://www.tindie.com/products/thirtytwoteeth/gaboze-pocaio-round-2/)
+
+[<img src="https://d2ss6ovg47m0r5.cloudfront.net/images/tindie-logo.png">](https://www.tindie.com/products/thirtytwoteeth/gaboze-pocaio-round-2/)
+
+-----
+
 # ![Gaboze Pocaio](images/logo.png)
 > This is it!
 
@@ -73,7 +82,7 @@ This is a 3.3V USB peripheral support, like keyboards (not the LED mechanical on
 
 One of the most requested features is to be able to use your keyboard and terminal without having to connect to the network, SSH, SCP, or FTP.
 
-##### Power LEd
+##### Power LED
 > Domed and diffused
 
 We replaced the surface mount power indicator LED with a through hole domed and diffused 3mm LED. This fits perfectly in the LED hole of the original and aftermarket *Game Boy Pocket* shell
@@ -89,3 +98,26 @@ In order to complete your build. You will need:
 - LiPo Battery
 - Micro SD Card
 - Gameboy Pocket Shell
+
+## Releases
+> Retro Pie or Lakka - You Decide
+
+* [Retro Pie](https://github.com/32teeth/GabozePocaio-Round2/releases/tag/RetroPie)
+* [Lakka](https://github.com/32teeth/GabozePocaio-Round2/releases/tag/Lakka)
+
+### Direct Downloads
+
+#### Retro Pie
+* [IMG](http://gameboy.32teeth.org/Gaboze-Round2-RetroPie.img)
+* [GZIP](http://gameboy.32teeth.org/Gaboze-Round2-RetroPie.gz)
+
+#### Lakka
+* [IMG](http://gameboy.32teeth.org/Gaboze-Round2-Lakka.img)
+* [GZIP](http://gameboy.32teeth.org/Gaboze-Round2-Lakka.gz)
+
+
+### Get In Touch
+
+|    [<img src="https://raw.githubusercontent.com/wiki/GameboyZero/GabozePocaio/images/icons/github.png" width="40px">](https://github.com/32teeth)[<img src="https://raw.githubusercontent.com/wiki/GameboyZero/GabozePocaio/images/icons/instagram.png" width="40px">](https://www.instagram.com/gabozepocaio/)[<img src="https://raw.githubusercontent.com/wiki/GameboyZero/GabozePocaio/images/icons/messenger.png" width="40px">](https://www.facebook.com/messages/t/gabozepocaio)[<img src="https://raw.githubusercontent.com/wiki/GameboyZero/GabozePocaio/images/icons/paypal.png" width="40px">](https://www.paypal.me/32teeth/5USD)  |
+| ---- |
+| Find us on the internet and lets chat |
