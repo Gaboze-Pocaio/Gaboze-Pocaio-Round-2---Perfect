@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="9.0.0">
+<eagle version="9.4.0">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -10288,98 +10288,6 @@ SMD type&lt;br&gt;</description>
 </deviceset>
 </devicesets>
 </library>
-<library name="ConductiveButtons">
-<packages>
-<package name="CONDUCTIVE_BUTTON_DRILL">
-<smd name="P$ACTIVE" x="1.125" y="3.125" dx="1.5" dy="0.508" layer="1" roundness="50"/>
-<smd name="P$GND" x="-1.125" y="-3.125" dx="1.5" dy="0.508" layer="1" roundness="50" rot="R180"/>
-<wire x1="0.5" y1="3" x2="0.5" y2="-3" width="0.254" layer="1" curve="-160"/>
-<wire x1="-0.5" y1="-3" x2="-0.5" y2="3" width="0.254" layer="1" curve="-160"/>
-<wire x1="1" y1="2.25" x2="-2" y2="2.25" width="0.254" layer="1"/>
-<wire x1="1.9" y1="1.25" x2="0" y2="1.25" width="0.254" layer="1"/>
-<wire x1="0" y1="1.25" x2="-2.7" y2="1.25" width="0.254" layer="1"/>
-<wire x1="-3" y1="0.25" x2="-1.2" y2="0.25" width="0.254" layer="1"/>
-<wire x1="-0.75" y1="-0.75" x2="-2.9" y2="-0.75" width="0.254" layer="1"/>
-<wire x1="-2.4" y1="-1.75" x2="1.4" y2="-1.75" width="0.254" layer="1"/>
-<wire x1="-1" y1="-2.25" x2="2" y2="-2.25" width="0.254" layer="1"/>
-<wire x1="-1.9" y1="-1.25" x2="0" y2="-1.25" width="0.254" layer="1"/>
-<wire x1="0" y1="-1.25" x2="2.7" y2="-1.25" width="0.254" layer="1"/>
-<wire x1="3" y1="-0.25" x2="1.2" y2="-0.25" width="0.254" layer="1"/>
-<wire x1="0.75" y1="0.75" x2="2.9" y2="0.75" width="0.254" layer="1"/>
-<wire x1="2.4" y1="1.75" x2="-1.4" y2="1.75" width="0.254" layer="1"/>
-<hole x="0" y="0" drill="1.2"/>
-<wire x1="0.75" y1="0.75" x2="0" y2="-1.25" width="0.254" layer="1" curve="-140"/>
-<wire x1="-0.75" y1="-0.75" x2="0" y2="1.25" width="0.254" layer="1" curve="-140"/>
-<wire x1="0.5" y1="3" x2="0.5" y2="-3" width="0.508" layer="29" curve="-160"/>
-<wire x1="-0.5" y1="-3" x2="-0.5" y2="3" width="0.508" layer="29" curve="-160"/>
-<wire x1="1" y1="2.25" x2="-2" y2="2.25" width="0.508" layer="29"/>
-<wire x1="1.9" y1="1.25" x2="0" y2="1.25" width="0.508" layer="29"/>
-<wire x1="0" y1="1.25" x2="-2.7" y2="1.25" width="0.508" layer="29"/>
-<wire x1="-3" y1="0.25" x2="-1.2" y2="0.25" width="0.508" layer="29"/>
-<wire x1="-0.75" y1="-0.75" x2="-2.9" y2="-0.75" width="0.508" layer="29"/>
-<wire x1="-2.4" y1="-1.75" x2="1.4" y2="-1.75" width="0.508" layer="29"/>
-<wire x1="-1" y1="-2.25" x2="2" y2="-2.25" width="0.508" layer="29"/>
-<wire x1="-1.9" y1="-1.25" x2="0" y2="-1.25" width="0.508" layer="29"/>
-<wire x1="0" y1="-1.25" x2="2.7" y2="-1.25" width="0.508" layer="29"/>
-<wire x1="3" y1="-0.25" x2="1.2" y2="-0.25" width="0.508" layer="29"/>
-<wire x1="0.75" y1="0.75" x2="2.9" y2="0.75" width="0.508" layer="29"/>
-<wire x1="2.4" y1="1.75" x2="-1.4" y2="1.75" width="0.508" layer="29"/>
-<wire x1="0.75" y1="0.75" x2="0" y2="-1.25" width="0.508" layer="29" curve="-140"/>
-<wire x1="-0.75" y1="-0.75" x2="0" y2="1.25" width="0.508" layer="29" curve="-140"/>
-<wire x1="0.5" y1="3" x2="0.5" y2="-3" width="0.254" layer="31" curve="-160"/>
-<wire x1="-0.5" y1="-3" x2="-0.5" y2="3" width="0.254" layer="31" curve="-160"/>
-<wire x1="1" y1="2.25" x2="-2" y2="2.25" width="0.254" layer="31"/>
-<wire x1="1.9" y1="1.25" x2="0" y2="1.25" width="0.254" layer="31"/>
-<wire x1="0" y1="1.25" x2="-2.7" y2="1.25" width="0.254" layer="31"/>
-<wire x1="-3" y1="0.25" x2="-1.2" y2="0.25" width="0.254" layer="31"/>
-<wire x1="-0.75" y1="-0.75" x2="-2.9" y2="-0.75" width="0.254" layer="31"/>
-<wire x1="-2.4" y1="-1.75" x2="1.4" y2="-1.75" width="0.254" layer="31"/>
-<wire x1="-1" y1="-2.25" x2="2" y2="-2.25" width="0.254" layer="31"/>
-<wire x1="-1.9" y1="-1.25" x2="0" y2="-1.25" width="0.254" layer="31"/>
-<wire x1="0" y1="-1.25" x2="2.7" y2="-1.25" width="0.254" layer="31"/>
-<wire x1="3" y1="-0.25" x2="1.2" y2="-0.25" width="0.254" layer="31"/>
-<wire x1="0.75" y1="0.75" x2="2.9" y2="0.75" width="0.254" layer="31"/>
-<wire x1="2.4" y1="1.75" x2="-1.4" y2="1.75" width="0.254" layer="31"/>
-<wire x1="0.75" y1="0.75" x2="0" y2="-1.25" width="0.254" layer="31" curve="-140"/>
-<wire x1="-0.75" y1="-0.75" x2="0" y2="1.25" width="0.254" layer="31" curve="-140"/>
-</package>
-</packages>
-<symbols>
-<symbol name="CONDUCTIVE_BUTTON_DRILL">
-<wire x1="-5.08" y1="0" x2="-3.048" y2="0" width="0.254" layer="94"/>
-<wire x1="3.048" y1="0" x2="5.08" y2="0" width="0.254" layer="94"/>
-<wire x1="-2.54" y1="1.27" x2="-0.762" y2="1.27" width="0.254" layer="94"/>
-<wire x1="-0.762" y1="1.27" x2="0.762" y2="1.27" width="0.254" layer="94"/>
-<wire x1="0.762" y1="1.27" x2="2.54" y2="1.27" width="0.254" layer="94"/>
-<wire x1="0.762" y1="1.27" x2="0.762" y2="1.778" width="0.254" layer="94"/>
-<wire x1="0.762" y1="1.778" x2="-0.762" y2="1.778" width="0.254" layer="94"/>
-<wire x1="-0.762" y1="1.778" x2="-0.762" y2="1.27" width="0.254" layer="94"/>
-<circle x="-2.54" y="0" radius="0.508" width="0.254" layer="94"/>
-<circle x="2.54" y="0" radius="0.508" width="0.254" layer="94"/>
-<text x="0" y="3.81" size="1.9304" layer="95" font="vector" ratio="20" align="center">&gt;NAME</text>
-<pin name="P$GND" x="-5.08" y="0" visible="off" length="point" swaplevel="1"/>
-<pin name="P$ACTIVE" x="5.08" y="0" visible="off" length="point" swaplevel="1" rot="R180"/>
-</symbol>
-</symbols>
-<devicesets>
-<deviceset name="CONDUCTIVE_BUTTON_DRILL">
-<gates>
-<gate name="G$1" symbol="CONDUCTIVE_BUTTON_DRILL" x="0" y="0"/>
-</gates>
-<devices>
-<device name="" package="CONDUCTIVE_BUTTON_DRILL">
-<connects>
-<connect gate="G$1" pin="P$ACTIVE" pad="P$ACTIVE"/>
-<connect gate="G$1" pin="P$GND" pad="P$GND"/>
-</connects>
-<technologies>
-<technology name=""/>
-</technologies>
-</device>
-</devices>
-</deviceset>
-</devicesets>
-</library>
 <library name="32teeth - Gaboze-Pi">
 <description>Generated from &lt;b&gt;TMC2660-test-with-grbl.brd&lt;/b&gt;&lt;p&gt; by exp-project-lbr.ulp</description>
 <packages>
@@ -10708,6 +10616,288 @@ FACING AWAY FROM BOARD</text>
 <wire x1="2.75" y1="1.25" x2="-1.95" y2="1.25" width="0.254" layer="31"/>
 <wire x1="0.75" y1="1.75" x2="-2.15" y2="1.75" width="0.254" layer="31"/>
 </package>
+<package name="CONDUCTIVE_BUTTON_THICK_DRILL">
+<hole x="0" y="0" drill="1"/>
+<circle x="0" y="0" radius="3.81" width="0" layer="39"/>
+<polygon width="0.0254" layer="1">
+<vertex x="0" y="2"/>
+<vertex x="0" y="1.5" curve="140"/>
+<vertex x="-1" y="-1.115" curve="-125"/>
+<vertex x="-1" y="-1.73" curve="-150"/>
+</polygon>
+<smd name="P$GND" x="0" y="2.625" dx="2.75" dy="0.5" layer="1" rot="R90"/>
+<polygon width="0.0254" layer="1">
+<vertex x="0" y="-3"/>
+<vertex x="0" y="-2.5" curve="-155"/>
+</polygon>
+<polygon width="0.0254" layer="1">
+<vertex x="0" y="-2"/>
+<vertex x="0" y="-1.5" curve="140"/>
+<vertex x="1" y="1.115" curve="-125"/>
+<vertex x="1" y="1.73" curve="-150"/>
+</polygon>
+<smd name="P$ACTIVE" x="0" y="-2.625" dx="2.75" dy="0.5" layer="1" rot="R270"/>
+<polygon width="0.254" layer="29">
+<vertex x="0" y="2"/>
+<vertex x="0" y="1.5" curve="140"/>
+<vertex x="-1" y="-1.115" curve="-125"/>
+<vertex x="-1" y="-1.73" curve="-150"/>
+</polygon>
+<polygon width="0.254" layer="29">
+<vertex x="0" y="-2"/>
+<vertex x="0" y="-1.5" curve="140"/>
+<vertex x="1" y="1.115" curve="-125"/>
+<vertex x="1" y="1.73" curve="-150"/>
+</polygon>
+<polygon width="0.0254" layer="31">
+<vertex x="0" y="2"/>
+<vertex x="0" y="1.5" curve="140"/>
+<vertex x="-1" y="-1.115" curve="-125"/>
+<vertex x="-1" y="-1.73" curve="-150"/>
+</polygon>
+<polygon width="0.0254" layer="31">
+<vertex x="0" y="-2"/>
+<vertex x="0" y="-1.5" curve="140"/>
+<vertex x="1" y="1.115" curve="-125"/>
+<vertex x="1" y="1.73" curve="-150"/>
+</polygon>
+<polygon width="0.0254" layer="1">
+<vertex x="1.75" y="0.5"/>
+<vertex x="1.25" y="0.5" curve="90"/>
+<vertex x="1.25" y="-0.5"/>
+<vertex x="1.75" y="-0.5"/>
+</polygon>
+<polygon width="0.254" layer="29">
+<vertex x="1.75" y="0.5"/>
+<vertex x="1.25" y="0.5" curve="90"/>
+<vertex x="1.25" y="-0.5"/>
+<vertex x="1.75" y="-0.5"/>
+</polygon>
+<polygon width="0.0254" layer="31">
+<vertex x="1.75" y="0.5"/>
+<vertex x="1.25" y="0.5" curve="90"/>
+<vertex x="1.25" y="-0.5"/>
+<vertex x="1.75" y="-0.5"/>
+</polygon>
+<polygon width="0.0254" layer="1">
+<vertex x="-1.75" y="-0.5"/>
+<vertex x="-1.25" y="-0.5" curve="90"/>
+<vertex x="-1.25" y="0.5"/>
+<vertex x="-1.75" y="0.5"/>
+</polygon>
+<polygon width="0.254" layer="29">
+<vertex x="-1.75" y="-0.5"/>
+<vertex x="-1.25" y="-0.5" curve="90"/>
+<vertex x="-1.25" y="0.5"/>
+<vertex x="-1.75" y="0.5"/>
+</polygon>
+<polygon width="0.0254" layer="31">
+<vertex x="-1.75" y="-0.5"/>
+<vertex x="-1.25" y="-0.5" curve="90"/>
+<vertex x="-1.25" y="0.5"/>
+<vertex x="-1.75" y="0.5"/>
+</polygon>
+<polygon width="0.0254" layer="1">
+<vertex x="0" y="3"/>
+<vertex x="0" y="2.5" curve="-155"/>
+<vertex x="1" y="-2.29" curve="135"/>
+<vertex x="1" y="-2.83" curve="160"/>
+</polygon>
+<polygon width="0.0254" layer="1">
+<vertex x="0" y="-3"/>
+<vertex x="0" y="-2.5" curve="-155"/>
+<vertex x="-1" y="2.29" curve="135"/>
+<vertex x="-1" y="2.83" curve="160"/>
+</polygon>
+<polygon width="0.254" layer="29">
+<vertex x="0" y="3"/>
+<vertex x="0" y="2.5" curve="-155"/>
+<vertex x="1" y="-2.29" curve="135"/>
+<vertex x="1" y="-2.83" curve="160"/>
+</polygon>
+<polygon width="0.254" layer="29">
+<vertex x="0" y="-3"/>
+<vertex x="0" y="-2.5" curve="-155"/>
+<vertex x="-1" y="2.29" curve="135"/>
+<vertex x="-1" y="2.83" curve="160"/>
+</polygon>
+<polygon width="0.0254" layer="31">
+<vertex x="0" y="3"/>
+<vertex x="0" y="2.5" curve="-155"/>
+<vertex x="1" y="-2.29" curve="135"/>
+<vertex x="1" y="-2.83" curve="160"/>
+</polygon>
+<polygon width="0.0254" layer="31">
+<vertex x="0" y="-3"/>
+<vertex x="0" y="-2.5" curve="-155"/>
+<vertex x="-1" y="2.29" curve="135"/>
+<vertex x="-1" y="2.83" curve="160"/>
+</polygon>
+</package>
+<package name="CONDUCTIVE_BUTTON_THICK">
+<circle x="0" y="0" radius="3.81" width="0" layer="39"/>
+<polygon width="0.0254" layer="1">
+<vertex x="0" y="3"/>
+<vertex x="0" y="2.5" curve="-155"/>
+<vertex x="1" y="-2.29" curve="135"/>
+<vertex x="1" y="-2.83" curve="160"/>
+</polygon>
+<polygon width="0.0254" layer="1">
+<vertex x="0" y="2"/>
+<vertex x="0" y="1.5" curve="140"/>
+<vertex x="-1" y="-1.115" curve="-125"/>
+<vertex x="-1" y="-1.73" curve="-150"/>
+</polygon>
+<smd name="P$GND" x="0" y="2.25" dx="3.5" dy="0.5" layer="1" rot="R90"/>
+<polygon width="0.0254" layer="1">
+<vertex x="0" y="1"/>
+<vertex x="0" y="0.5" curve="-120"/>
+<vertex x="0.43" y="-0.25" curve="135"/>
+<vertex x="0.97" y="-0.25" curve="105"/>
+</polygon>
+<polygon width="0.0254" layer="1">
+<vertex x="0" y="-3"/>
+<vertex x="0" y="-2.5" curve="-155"/>
+<vertex x="-1" y="2.29" curve="135"/>
+<vertex x="-1" y="2.83" curve="160"/>
+</polygon>
+<polygon width="0.0254" layer="1">
+<vertex x="0" y="-2"/>
+<vertex x="0" y="-1.5" curve="140"/>
+<vertex x="1" y="1.115" curve="-125"/>
+<vertex x="1" y="1.73" curve="-150"/>
+</polygon>
+<smd name="P$ACTIVE" x="0" y="-2.25" dx="3.5" dy="0.5" layer="1" rot="R270"/>
+<polygon width="0.0254" layer="1">
+<vertex x="0" y="-1"/>
+<vertex x="0" y="-0.5" curve="-120"/>
+<vertex x="-0.43" y="0.25" curve="135"/>
+<vertex x="-0.97" y="0.25" curve="105"/>
+</polygon>
+<polygon width="0.254" layer="29">
+<vertex x="0" y="3"/>
+<vertex x="0" y="2.5" curve="-155"/>
+<vertex x="1" y="-2.29" curve="135"/>
+<vertex x="1" y="-2.83" curve="160"/>
+</polygon>
+<polygon width="0.254" layer="29">
+<vertex x="0" y="2"/>
+<vertex x="0" y="1.5" curve="140"/>
+<vertex x="-1" y="-1.115" curve="-125"/>
+<vertex x="-1" y="-1.73" curve="-150"/>
+</polygon>
+<polygon width="0.254" layer="29">
+<vertex x="0" y="1"/>
+<vertex x="0" y="0.5" curve="-120"/>
+<vertex x="0.43" y="-0.25" curve="135"/>
+<vertex x="0.97" y="-0.25" curve="105"/>
+</polygon>
+<polygon width="0.254" layer="29">
+<vertex x="0" y="-3"/>
+<vertex x="0" y="-2.5" curve="-155"/>
+<vertex x="-1" y="2.29" curve="135"/>
+<vertex x="-1" y="2.83" curve="160"/>
+</polygon>
+<polygon width="0.254" layer="29">
+<vertex x="0" y="-2"/>
+<vertex x="0" y="-1.5" curve="140"/>
+<vertex x="1" y="1.115" curve="-125"/>
+<vertex x="1" y="1.73" curve="-150"/>
+</polygon>
+<polygon width="0.254" layer="29">
+<vertex x="0" y="-1"/>
+<vertex x="0" y="-0.5" curve="-120"/>
+<vertex x="-0.43" y="0.25" curve="135"/>
+<vertex x="-0.97" y="0.25" curve="105"/>
+</polygon>
+<polygon width="0.0254" layer="31">
+<vertex x="0" y="3"/>
+<vertex x="0" y="2.5" curve="-155"/>
+<vertex x="1" y="-2.29" curve="135"/>
+<vertex x="1" y="-2.83" curve="160"/>
+</polygon>
+<polygon width="0.0254" layer="31">
+<vertex x="0" y="2"/>
+<vertex x="0" y="1.5" curve="140"/>
+<vertex x="-1" y="-1.115" curve="-125"/>
+<vertex x="-1" y="-1.73" curve="-150"/>
+</polygon>
+<polygon width="0.0254" layer="31">
+<vertex x="0" y="1"/>
+<vertex x="0" y="0.5" curve="-120"/>
+<vertex x="0.43" y="-0.25" curve="135"/>
+<vertex x="0.97" y="-0.25" curve="105"/>
+</polygon>
+<polygon width="0.0254" layer="31">
+<vertex x="0" y="-3"/>
+<vertex x="0" y="-2.5" curve="-155"/>
+<vertex x="-1" y="2.29" curve="135"/>
+<vertex x="-1" y="2.83" curve="160"/>
+</polygon>
+<polygon width="0.0254" layer="31">
+<vertex x="0" y="-2"/>
+<vertex x="0" y="-1.5" curve="140"/>
+<vertex x="1" y="1.115" curve="-125"/>
+<vertex x="1" y="1.73" curve="-150"/>
+</polygon>
+<polygon width="0.0254" layer="31">
+<vertex x="0" y="-1"/>
+<vertex x="0" y="-0.5" curve="-120"/>
+<vertex x="-0.43" y="0.25" curve="135"/>
+<vertex x="-0.97" y="0.25" curve="105"/>
+</polygon>
+</package>
+<package name="CONDUCTIVE_BUTTON_DIRECTIONAL_THICK">
+<smd name="P$ACTIVE" x="1.1" y="1.7" dx="2.5" dy="0.5" layer="1" roundness="100" rot="R75"/>
+<smd name="P$GND" x="0.1" y="-1.7" dx="2.5" dy="0.5" layer="1" roundness="100" rot="R285"/>
+<circle x="0" y="0" radius="3.81" width="0" layer="39"/>
+<polygon width="0.127" layer="1">
+<vertex x="-3" y="0.8" curve="30"/>
+<vertex x="0.75" y="0.55" curve="-30"/>
+<vertex x="1.5" y="2.8" curve="90"/>
+</polygon>
+<polygon width="0.127" layer="1">
+<vertex x="-3" y="-0.8" curve="-30"/>
+<vertex x="0.75" y="-0.55" curve="30"/>
+<vertex x="1.5" y="-2.8" curve="-90"/>
+</polygon>
+<polygon width="0.254" layer="29">
+<vertex x="-3" y="0.8" curve="30"/>
+<vertex x="0.75" y="0.55" curve="-30"/>
+<vertex x="1.5" y="2.8" curve="90"/>
+</polygon>
+<polygon width="0.254" layer="29">
+<vertex x="-3" y="-0.8" curve="-30"/>
+<vertex x="0.75" y="-0.55" curve="30"/>
+<vertex x="1.5" y="-2.8" curve="-90"/>
+</polygon>
+<polygon width="0.0254" layer="31">
+<vertex x="-3" y="0.8" curve="30"/>
+<vertex x="0.75" y="0.55" curve="-30"/>
+<vertex x="1.5" y="2.8" curve="90"/>
+</polygon>
+<polygon width="0.0254" layer="31">
+<vertex x="-3" y="-0.8" curve="-30"/>
+<vertex x="0.75" y="-0.55" curve="30"/>
+<vertex x="1.5" y="-2.8" curve="-90"/>
+</polygon>
+</package>
+<package name="CONDUCTIVE_BUTTON_THICK_STARTSELECT">
+<smd name="P$ACTIVE" x="3" y="1" dx="1.75" dy="1.75" layer="1" roundness="25"/>
+<smd name="P$GND" x="1" y="1" dx="1.75" dy="1.75" layer="1" roundness="25" rot="R180"/>
+<smd name="P$ACTIVE1" x="-1" y="1" dx="1.75" dy="1.75" layer="1" roundness="25"/>
+<smd name="P$GND1" x="-3" y="1" dx="1.75" dy="1.75" layer="1" roundness="25" rot="R180"/>
+<smd name="P$ACTIVE2" x="-3" y="-1" dx="1.75" dy="1.75" layer="1" roundness="25" rot="R180"/>
+<smd name="P$GND2" x="-1" y="-1" dx="1.75" dy="1.75" layer="1" roundness="25"/>
+<smd name="P$ACTIVE3" x="1" y="-1" dx="1.75" dy="1.75" layer="1" roundness="25" rot="R180"/>
+<smd name="P$GND3" x="3" y="-1" dx="1.75" dy="1.75" layer="1" roundness="25"/>
+<wire x1="-3" y1="-1" x2="-1" y2="1" width="0.127" layer="1"/>
+<wire x1="1" y1="-1" x2="-1" y2="1" width="0.127" layer="1"/>
+<wire x1="3" y1="1" x2="1" y2="-1" width="0.127" layer="1"/>
+<wire x1="-3" y1="-1" x2="-1" y2="1" width="0.254" layer="29"/>
+<wire x1="1" y1="-1" x2="-1" y2="1" width="0.254" layer="29"/>
+<wire x1="3" y1="1" x2="1" y2="-1" width="0.254" layer="29"/>
+</package>
 </packages>
 <symbols>
 <symbol name="CONDUCTIVE_BUTTON_DRILL">
@@ -10771,6 +10961,15 @@ FACING AWAY FROM BOARD</text>
 <technology name=""/>
 </technologies>
 </device>
+<device name="CONDUCTIVE_BUTTON_DRILL_THICK" package="CONDUCTIVE_BUTTON_THICK_DRILL">
+<connects>
+<connect gate="G$1" pin="P$ACTIVE" pad="P$ACTIVE"/>
+<connect gate="G$1" pin="P$GND" pad="P$GND"/>
+</connects>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
 </devices>
 </deviceset>
 <deviceset name="CONDUCTIVE_BUTTON">
@@ -10779,6 +10978,24 @@ FACING AWAY FROM BOARD</text>
 </gates>
 <devices>
 <device name="" package="CONDUCTIVE_BUTTON">
+<connects>
+<connect gate="G$1" pin="P$ACTIVE" pad="P$ACTIVE"/>
+<connect gate="G$1" pin="P$GND" pad="P$GND"/>
+</connects>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+<device name="CONDUCTIVE_BUTTON_THICK" package="CONDUCTIVE_BUTTON_THICK">
+<connects>
+<connect gate="G$1" pin="P$ACTIVE" pad="P$ACTIVE"/>
+<connect gate="G$1" pin="P$GND" pad="P$GND"/>
+</connects>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+<device name="CONDUCTIVE_BUTTON_DIRECTIONAL_THICK" package="CONDUCTIVE_BUTTON_DIRECTIONAL_THICK">
 <connects>
 <connect gate="G$1" pin="P$ACTIVE" pad="P$ACTIVE"/>
 <connect gate="G$1" pin="P$GND" pad="P$GND"/>
@@ -10798,6 +11015,15 @@ FACING AWAY FROM BOARD</text>
 <connects>
 <connect gate="G$1" pin="P$ACTIVE" pad="P$ACTIVE"/>
 <connect gate="G$1" pin="P$GND" pad="P$GND"/>
+</connects>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+<device name="CONDUCTIVE_BUTTON_THICK_STARTSELECT" package="CONDUCTIVE_BUTTON_THICK_STARTSELECT">
+<connects>
+<connect gate="G$1" pin="P$ACTIVE" pad="P$ACTIVE P$ACTIVE1 P$ACTIVE2 P$ACTIVE3"/>
+<connect gate="G$1" pin="P$GND" pad="P$GND P$GND1 P$GND2 P$GND3"/>
 </connects>
 <technologies>
 <technology name=""/>
@@ -11165,28 +11391,28 @@ FACING AWAY FROM BOARD</text>
 <part name="PI1" library="32teeth - Gaboze-Pi" deviceset="RPI-ZERO-USB" device="" value="RPI-ZERO-USB"/>
 <part name="GND1" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="POWER1" library="32teeth - TP4056 Module" deviceset="TP4056" device=""/>
-<part name="X" library="32teeth - Conductive Buttons" deviceset="CONDUCTIVE_BUTTON_DRILL" device="" value="CONDUCTIVE_BUTTON_DRILL"/>
-<part name="Y" library="32teeth - Conductive Buttons" deviceset="CONDUCTIVE_BUTTON_DRILL" device="" value="CONDUCTIVE_BUTTON_DRILL"/>
-<part name="B" library="32teeth - Conductive Buttons" deviceset="CONDUCTIVE_BUTTON" device="" value="CONDUCTIVE_BUTTON"/>
-<part name="L1" library="ConductiveButtons" deviceset="CONDUCTIVE_BUTTON_DRILL" device="" value="CONDUCTIVE_BUTTON_DRILL"/>
-<part name="START" library="32teeth - Conductive Buttons" deviceset="CONDUCTIVE_BUTTON_STARTSELECT" device="" value="CONDUCTIVE_BUTTON_STARTSELECT"/>
-<part name="SELECT" library="32teeth - Conductive Buttons" deviceset="CONDUCTIVE_BUTTON_STARTSELECT" device="" value="CONDUCTIVE_BUTTON_STARTSELECT"/>
+<part name="X" library="32teeth - Conductive Buttons" deviceset="CONDUCTIVE_BUTTON_DRILL" device="CONDUCTIVE_BUTTON_DRILL_THICK" value="CONDUCTIVE_BUTTON_DRILLCONDUCTIVE_BUTTON_DRILL_THICK"/>
+<part name="Y" library="32teeth - Conductive Buttons" deviceset="CONDUCTIVE_BUTTON_DRILL" device="CONDUCTIVE_BUTTON_DRILL_THICK" value="CONDUCTIVE_BUTTON_DRILLCONDUCTIVE_BUTTON_DRILL_THICK"/>
+<part name="B" library="32teeth - Conductive Buttons" deviceset="CONDUCTIVE_BUTTON" device="CONDUCTIVE_BUTTON_THICK" value="CONDUCTIVE_BUTTONCONDUCTIVE_BUTTON_THICK"/>
+<part name="L1" library="32teeth - Conductive Buttons" deviceset="CONDUCTIVE_BUTTON_DRILL" device="CONDUCTIVE_BUTTON_DRILL_THICK" value="CONDUCTIVE_BUTTON_DRILLCONDUCTIVE_BUTTON_DRILL_THICK"/>
+<part name="START" library="32teeth - Conductive Buttons" deviceset="CONDUCTIVE_BUTTON_STARTSELECT" device="CONDUCTIVE_BUTTON_THICK_STARTSELECT" value="CONDUCTIVE_BUTTON_STARTSELECTCONDUCTIVE_BUTTON_THICK_STARTSELECT"/>
+<part name="SELECT" library="32teeth - Conductive Buttons" deviceset="CONDUCTIVE_BUTTON_STARTSELECT" device="CONDUCTIVE_BUTTON_THICK_STARTSELECT" value="CONDUCTIVE_BUTTON_STARTSELECTCONDUCTIVE_BUTTON_THICK_STARTSELECT"/>
 <part name="GND2" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="GND6" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="GND7" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="GND8" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="GND9" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="GND10" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
-<part name="A" library="32teeth - Conductive Buttons" deviceset="CONDUCTIVE_BUTTON" device="" value="CONDUCTIVE_BUTTON"/>
-<part name="R1" library="32teeth - Conductive Buttons" deviceset="CONDUCTIVE_BUTTON_DRILL" device="" value="CONDUCTIVE_BUTTON_DRILL"/>
+<part name="A" library="32teeth - Conductive Buttons" deviceset="CONDUCTIVE_BUTTON" device="CONDUCTIVE_BUTTON_THICK" value="CONDUCTIVE_BUTTONCONDUCTIVE_BUTTON_THICK"/>
+<part name="R1" library="32teeth - Conductive Buttons" deviceset="CONDUCTIVE_BUTTON_DRILL" device="CONDUCTIVE_BUTTON_DRILL_THICK" value="CONDUCTIVE_BUTTON_DRILLCONDUCTIVE_BUTTON_DRILL_THICK"/>
 <part name="GND11" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="R2" library="adafruit" deviceset="R-US_" device="R0805" value="1.5K"/>
 <part name="LED1" library="adafruit" deviceset="LED" device="3MM" value="Red"/>
 <part name="GND12" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
-<part name="UP" library="32teeth - Conductive Buttons" deviceset="CONDUCTIVE_BUTTON" device="" value="CONDUCTIVE_BUTTON"/>
-<part name="DOWN" library="32teeth - Conductive Buttons" deviceset="CONDUCTIVE_BUTTON" device="" value="CONDUCTIVE_BUTTON"/>
-<part name="LEFT" library="32teeth - Conductive Buttons" deviceset="CONDUCTIVE_BUTTON" device="" value="CONDUCTIVE_BUTTON"/>
-<part name="RIGHT" library="32teeth - Conductive Buttons" deviceset="CONDUCTIVE_BUTTON" device="" value="CONDUCTIVE_BUTTON"/>
+<part name="UP" library="32teeth - Conductive Buttons" deviceset="CONDUCTIVE_BUTTON" device="CONDUCTIVE_BUTTON_DIRECTIONAL_THICK" value="CONDUCTIVE_BUTTONCONDUCTIVE_BUTTON_DIRECTIONAL_THICK"/>
+<part name="DOWN" library="32teeth - Conductive Buttons" deviceset="CONDUCTIVE_BUTTON" device="CONDUCTIVE_BUTTON_DIRECTIONAL_THICK" value="CONDUCTIVE_BUTTONCONDUCTIVE_BUTTON_DIRECTIONAL_THICK"/>
+<part name="LEFT" library="32teeth - Conductive Buttons" deviceset="CONDUCTIVE_BUTTON" device="CONDUCTIVE_BUTTON_DIRECTIONAL_THICK" value="CONDUCTIVE_BUTTONCONDUCTIVE_BUTTON_DIRECTIONAL_THICK"/>
+<part name="RIGHT" library="32teeth - Conductive Buttons" deviceset="CONDUCTIVE_BUTTON" device="CONDUCTIVE_BUTTON_DIRECTIONAL_THICK" value="CONDUCTIVE_BUTTONCONDUCTIVE_BUTTON_DIRECTIONAL_THICK"/>
 <part name="GND13" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="GND14" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="GND15" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
@@ -11285,9 +11511,14 @@ FACING AWAY FROM BOARD</text>
 <text x="289.814" y="97.536" size="1.016" layer="94" font="vector" align="center">CREDITS</text>
 </plain>
 <instances>
-<instance part="PI1" gate="G$1" x="198.12" y="104.14"/>
-<instance part="GND1" gate="1" x="63.5" y="104.14" rot="R90"/>
-<instance part="POWER1" gate="G$1" x="48.26" y="109.22"/>
+<instance part="PI1" gate="G$1" x="198.12" y="104.14" smashed="yes">
+<attribute name="NAME" x="177.8" y="139.7" size="1.27" layer="95" font="vector"/>
+<attribute name="VALUE" x="177.8" y="137.795" size="1.27" layer="96" font="vector"/>
+</instance>
+<instance part="GND1" gate="1" x="63.5" y="104.14" smashed="yes" rot="R90">
+<attribute name="VALUE" x="66.04" y="101.6" size="1.778" layer="96" rot="R90"/>
+</instance>
+<instance part="POWER1" gate="G$1" x="48.26" y="109.22" smashed="yes"/>
 <instance part="X" gate="G$1" x="55.88" y="46.99" smashed="yes">
 <attribute name="NAME" x="55.88" y="48.514" size="1.016" layer="95" font="vector" align="bottom-center"/>
 </instance>
@@ -11306,22 +11537,44 @@ FACING AWAY FROM BOARD</text>
 <instance part="SELECT" gate="G$1" x="25.4" y="86.36" smashed="yes">
 <attribute name="NAME" x="25.4" y="87.884" size="1.016" layer="95" font="vector" align="bottom-center"/>
 </instance>
-<instance part="GND2" gate="1" x="172.72" y="124.46" rot="R270"/>
-<instance part="GND6" gate="1" x="172.72" y="104.14" rot="R270"/>
-<instance part="GND7" gate="1" x="172.72" y="86.36" rot="R270"/>
-<instance part="GND8" gate="1" x="226.06" y="99.06" rot="R90"/>
-<instance part="GND9" gate="1" x="226.06" y="119.38" rot="R90"/>
-<instance part="GND10" gate="1" x="226.06" y="129.54" rot="R90"/>
+<instance part="GND2" gate="1" x="172.72" y="124.46" smashed="yes" rot="R270">
+<attribute name="VALUE" x="170.18" y="127" size="1.778" layer="96" rot="R270"/>
+</instance>
+<instance part="GND6" gate="1" x="172.72" y="104.14" smashed="yes" rot="R270">
+<attribute name="VALUE" x="170.18" y="106.68" size="1.778" layer="96" rot="R270"/>
+</instance>
+<instance part="GND7" gate="1" x="172.72" y="86.36" smashed="yes" rot="R270">
+<attribute name="VALUE" x="170.18" y="88.9" size="1.778" layer="96" rot="R270"/>
+</instance>
+<instance part="GND8" gate="1" x="226.06" y="99.06" smashed="yes" rot="R90">
+<attribute name="VALUE" x="228.6" y="96.52" size="1.778" layer="96" rot="R90"/>
+</instance>
+<instance part="GND9" gate="1" x="226.06" y="119.38" smashed="yes" rot="R90">
+<attribute name="VALUE" x="228.6" y="116.84" size="1.778" layer="96" rot="R90"/>
+</instance>
+<instance part="GND10" gate="1" x="226.06" y="129.54" smashed="yes" rot="R90">
+<attribute name="VALUE" x="228.6" y="127" size="1.778" layer="96" rot="R90"/>
+</instance>
 <instance part="A" gate="G$1" x="25.4" y="57.658" smashed="yes">
 <attribute name="NAME" x="25.4" y="59.182" size="1.016" layer="95" font="vector" align="bottom-center"/>
 </instance>
 <instance part="R1" gate="G$1" x="55.88" y="57.658" smashed="yes">
 <attribute name="NAME" x="55.88" y="59.182" size="1.016" layer="95" font="vector" align="bottom-center"/>
 </instance>
-<instance part="GND11" gate="1" x="226.06" y="93.98" rot="R90"/>
-<instance part="R2" gate="G$1" x="294.64" y="134.62"/>
-<instance part="LED1" gate="G$1" x="287.02" y="134.62" rot="R270"/>
-<instance part="GND12" gate="1" x="279.4" y="134.62" rot="R270"/>
+<instance part="GND11" gate="1" x="226.06" y="93.98" smashed="yes" rot="R90">
+<attribute name="VALUE" x="228.6" y="91.44" size="1.778" layer="96" rot="R90"/>
+</instance>
+<instance part="R2" gate="G$1" x="294.64" y="134.62" smashed="yes">
+<attribute name="NAME" x="290.83" y="136.1186" size="1.778" layer="95"/>
+<attribute name="VALUE" x="290.83" y="131.318" size="1.778" layer="96"/>
+</instance>
+<instance part="LED1" gate="G$1" x="287.02" y="134.62" smashed="yes" rot="R270">
+<attribute name="NAME" x="282.448" y="131.064" size="1.778" layer="95"/>
+<attribute name="VALUE" x="282.448" y="128.905" size="1.778" layer="96"/>
+</instance>
+<instance part="GND12" gate="1" x="279.4" y="134.62" smashed="yes" rot="R270">
+<attribute name="VALUE" x="276.86" y="137.16" size="1.778" layer="96" rot="R270"/>
+</instance>
 <instance part="UP" gate="G$1" x="25.4" y="16.51" smashed="yes">
 <attribute name="NAME" x="25.4" y="18.034" size="1.016" layer="95" font="vector" align="bottom-center"/>
 </instance>
@@ -11334,46 +11587,137 @@ FACING AWAY FROM BOARD</text>
 <instance part="RIGHT" gate="G$1" x="55.88" y="16.51" smashed="yes">
 <attribute name="NAME" x="55.88" y="18.034" size="1.016" layer="95" font="vector" align="bottom-center"/>
 </instance>
-<instance part="GND13" gate="1" x="48.514" y="8.89" rot="R270"/>
-<instance part="GND14" gate="1" x="17.78" y="16.51" rot="R270"/>
-<instance part="GND15" gate="1" x="17.78" y="8.89" rot="R270"/>
-<instance part="GND16" gate="1" x="48.26" y="16.51" rot="R270"/>
-<instance part="GND17" gate="1" x="48.26" y="46.99" rot="R270"/>
-<instance part="GND18" gate="1" x="48.26" y="36.83" rot="R270"/>
-<instance part="GND19" gate="1" x="17.78" y="46.99" rot="R270"/>
-<instance part="GND20" gate="1" x="17.78" y="36.83" rot="R270"/>
-<instance part="GND21" gate="1" x="48.26" y="86.36" rot="R270"/>
-<instance part="GND22" gate="1" x="17.78" y="86.36" rot="R270"/>
-<instance part="GND23" gate="1" x="17.78" y="57.658" rot="R270"/>
-<instance part="GND25" gate="1" x="48.26" y="57.658" rot="R270"/>
-<instance part="GND27" gate="1" x="226.06" y="111.76" rot="R90"/>
-<instance part="U$1" gate="G$1" x="289.56" y="109.22"/>
-<instance part="U1" gate="U$1" x="228.6" y="25.4"/>
-<instance part="C2" gate="G$1" x="185.42" y="40.64" rot="R270"/>
-<instance part="GND29" gate="1" x="236.22" y="7.62"/>
-<instance part="C3" gate="G$1" x="185.42" y="12.7" rot="R270"/>
-<instance part="GND35" gate="1" x="175.26" y="12.7" rot="R270"/>
-<instance part="GND36" gate="1" x="172.72" y="25.4" rot="R270"/>
-<instance part="C4" gate="G$1" x="243.84" y="40.64" rot="R90"/>
-<instance part="J2" gate="G$1" x="317.5" y="40.64" rot="R180"/>
-<instance part="J3" gate="G$1" x="45.72" y="134.62" rot="R90"/>
-<instance part="J4" gate="G$1" x="17.526" y="109.728"/>
-<instance part="GND24" gate="1" x="32.512" y="109.728" rot="R90"/>
-<instance part="GND26" gate="1" x="35.56" y="106.68" rot="R270"/>
-<instance part="C1" gate="G$1" x="279.4" y="17.78" rot="R90"/>
-<instance part="GND31" gate="1" x="251.46" y="40.64" rot="R90"/>
-<instance part="R3" gate="G$1" x="292.1" y="35.56" rot="R90"/>
-<instance part="R4" gate="G$1" x="284.48" y="12.7" rot="R90"/>
-<instance part="GND28" gate="1" x="274.32" y="7.62" rot="R270"/>
-<instance part="J1" gate="G$1" x="307.34" y="12.7" rot="R180"/>
-<instance part="U$2" gate="G$1" x="83.82" y="76.2" rot="R180"/>
-<instance part="GND30" gate="1" x="109.22" y="127" rot="R90"/>
-<instance part="GND32" gate="1" x="109.22" y="10.16" rot="R90"/>
-<instance part="GND3" gate="1" x="124.46" y="30.48" rot="R180"/>
-<instance part="GND4" gate="1" x="109.22" y="111.76" rot="R90"/>
-<instance part="R10" gate="R$1" x="185.42" y="25.4" rot="R270"/>
-<instance part="R5" gate="R$1" x="124.46" y="20.32" rot="R180"/>
-<instance part="D1" gate="G$1" x="45.974" y="119.888" rot="R180"/>
+<instance part="GND13" gate="1" x="48.514" y="8.89" smashed="yes" rot="R270">
+<attribute name="VALUE" x="45.974" y="11.43" size="1.778" layer="96" rot="R270"/>
+</instance>
+<instance part="GND14" gate="1" x="17.78" y="16.51" smashed="yes" rot="R270">
+<attribute name="VALUE" x="15.24" y="19.05" size="1.778" layer="96" rot="R270"/>
+</instance>
+<instance part="GND15" gate="1" x="17.78" y="8.89" smashed="yes" rot="R270">
+<attribute name="VALUE" x="15.24" y="11.43" size="1.778" layer="96" rot="R270"/>
+</instance>
+<instance part="GND16" gate="1" x="48.26" y="16.51" smashed="yes" rot="R270">
+<attribute name="VALUE" x="45.72" y="19.05" size="1.778" layer="96" rot="R270"/>
+</instance>
+<instance part="GND17" gate="1" x="48.26" y="46.99" smashed="yes" rot="R270">
+<attribute name="VALUE" x="45.72" y="49.53" size="1.778" layer="96" rot="R270"/>
+</instance>
+<instance part="GND18" gate="1" x="48.26" y="36.83" smashed="yes" rot="R270">
+<attribute name="VALUE" x="45.72" y="39.37" size="1.778" layer="96" rot="R270"/>
+</instance>
+<instance part="GND19" gate="1" x="17.78" y="46.99" smashed="yes" rot="R270">
+<attribute name="VALUE" x="15.24" y="49.53" size="1.778" layer="96" rot="R270"/>
+</instance>
+<instance part="GND20" gate="1" x="17.78" y="36.83" smashed="yes" rot="R270">
+<attribute name="VALUE" x="15.24" y="39.37" size="1.778" layer="96" rot="R270"/>
+</instance>
+<instance part="GND21" gate="1" x="48.26" y="86.36" smashed="yes" rot="R270">
+<attribute name="VALUE" x="45.72" y="88.9" size="1.778" layer="96" rot="R270"/>
+</instance>
+<instance part="GND22" gate="1" x="17.78" y="86.36" smashed="yes" rot="R270">
+<attribute name="VALUE" x="15.24" y="88.9" size="1.778" layer="96" rot="R270"/>
+</instance>
+<instance part="GND23" gate="1" x="17.78" y="57.658" smashed="yes" rot="R270">
+<attribute name="VALUE" x="15.24" y="60.198" size="1.778" layer="96" rot="R270"/>
+</instance>
+<instance part="GND25" gate="1" x="48.26" y="57.658" smashed="yes" rot="R270">
+<attribute name="VALUE" x="45.72" y="60.198" size="1.778" layer="96" rot="R270"/>
+</instance>
+<instance part="GND27" gate="1" x="226.06" y="111.76" smashed="yes" rot="R90">
+<attribute name="VALUE" x="228.6" y="109.22" size="1.778" layer="96" rot="R90"/>
+</instance>
+<instance part="U$1" gate="G$1" x="289.56" y="109.22" smashed="yes">
+<attribute name="NAME" x="287.655" y="102.87" size="1.778" layer="95"/>
+<attribute name="VALUE" x="287.02" y="113.03" size="1.778" layer="96"/>
+</instance>
+<instance part="U1" gate="U$1" x="228.6" y="25.4" smashed="yes">
+<attribute name="NAME" x="223.52" y="36.322" size="1.27" layer="95"/>
+<attribute name="VALUE" x="223.52" y="12.7" size="1.27" layer="96"/>
+</instance>
+<instance part="C2" gate="G$1" x="185.42" y="40.64" smashed="yes" rot="R270">
+<attribute name="NAME" x="186.055" y="39.624" size="1.778" layer="95" rot="R270"/>
+<attribute name="VALUE" x="181.229" y="39.624" size="1.778" layer="96" rot="R270"/>
+</instance>
+<instance part="GND29" gate="1" x="236.22" y="7.62" smashed="yes">
+<attribute name="VALUE" x="233.68" y="5.08" size="1.778" layer="96"/>
+</instance>
+<instance part="C3" gate="G$1" x="185.42" y="12.7" smashed="yes" rot="R270">
+<attribute name="NAME" x="186.055" y="11.684" size="1.778" layer="95" rot="R270"/>
+<attribute name="VALUE" x="181.229" y="11.684" size="1.778" layer="96" rot="R270"/>
+</instance>
+<instance part="GND35" gate="1" x="175.26" y="12.7" smashed="yes" rot="R270">
+<attribute name="VALUE" x="172.72" y="15.24" size="1.778" layer="96" rot="R270"/>
+</instance>
+<instance part="GND36" gate="1" x="172.72" y="25.4" smashed="yes" rot="R270">
+<attribute name="VALUE" x="170.18" y="27.94" size="1.778" layer="96" rot="R270"/>
+</instance>
+<instance part="C4" gate="G$1" x="243.84" y="40.64" smashed="yes" rot="R90">
+<attribute name="NAME" x="243.205" y="41.656" size="1.778" layer="95" rot="R90"/>
+<attribute name="VALUE" x="248.031" y="41.656" size="1.778" layer="96" rot="R90"/>
+</instance>
+<instance part="J2" gate="G$1" x="317.5" y="40.64" smashed="yes" rot="R180">
+<attribute name="VALUE" x="320.04" y="45.466" size="1.778" layer="96" font="vector" rot="R180"/>
+<attribute name="NAME" x="320.04" y="35.052" size="1.778" layer="95" font="vector" rot="R180"/>
+</instance>
+<instance part="J3" gate="G$1" x="45.72" y="134.62" smashed="yes" rot="R90">
+<attribute name="NAME" x="39.878" y="132.08" size="1.778" layer="95" rot="R90"/>
+</instance>
+<instance part="J4" gate="G$1" x="17.526" y="109.728" smashed="yes">
+<attribute name="NAME" x="7.366" y="123.19" size="1.778" layer="95"/>
+</instance>
+<instance part="GND24" gate="1" x="32.512" y="109.728" smashed="yes" rot="R90">
+<attribute name="VALUE" x="35.052" y="107.188" size="1.778" layer="96" rot="R90"/>
+</instance>
+<instance part="GND26" gate="1" x="35.56" y="106.68" smashed="yes" rot="R270">
+<attribute name="VALUE" x="33.02" y="109.22" size="1.778" layer="96" rot="R270"/>
+</instance>
+<instance part="C1" gate="G$1" x="279.4" y="17.78" smashed="yes" rot="R90">
+<attribute name="NAME" x="278.765" y="18.796" size="1.778" layer="95" font="vector" rot="R90"/>
+<attribute name="VALUE" x="283.591" y="18.796" size="1.778" layer="96" font="vector" rot="R90"/>
+</instance>
+<instance part="GND31" gate="1" x="251.46" y="40.64" smashed="yes" rot="R90">
+<attribute name="VALUE" x="254" y="38.1" size="1.778" layer="96" rot="R90"/>
+</instance>
+<instance part="R3" gate="G$1" x="292.1" y="35.56" smashed="yes" rot="R90">
+<attribute name="NAME" x="290.6014" y="31.75" size="1.778" layer="95" rot="R90"/>
+<attribute name="VALUE" x="295.402" y="31.75" size="1.778" layer="96" rot="R90"/>
+</instance>
+<instance part="R4" gate="G$1" x="284.48" y="12.7" smashed="yes" rot="R90">
+<attribute name="NAME" x="282.9814" y="8.89" size="1.778" layer="95" rot="R90"/>
+<attribute name="VALUE" x="287.782" y="8.89" size="1.778" layer="96" rot="R90"/>
+</instance>
+<instance part="GND28" gate="1" x="274.32" y="7.62" smashed="yes" rot="R270">
+<attribute name="VALUE" x="271.78" y="10.16" size="1.778" layer="96" rot="R270"/>
+</instance>
+<instance part="J1" gate="G$1" x="307.34" y="12.7" smashed="yes" rot="R180">
+<attribute name="NAME" x="312.42" y="7.112" size="1.778" layer="95" font="vector" rot="R180"/>
+<attribute name="VALUE" x="312.42" y="20.32" size="1.778" layer="96" font="vector" rot="R180"/>
+</instance>
+<instance part="U$2" gate="G$1" x="83.82" y="76.2" smashed="yes" rot="R180"/>
+<instance part="GND30" gate="1" x="109.22" y="127" smashed="yes" rot="R90">
+<attribute name="VALUE" x="111.76" y="124.46" size="1.778" layer="96" rot="R90"/>
+</instance>
+<instance part="GND32" gate="1" x="109.22" y="10.16" smashed="yes" rot="R90">
+<attribute name="VALUE" x="111.76" y="7.62" size="1.778" layer="96" rot="R90"/>
+</instance>
+<instance part="GND3" gate="1" x="124.46" y="30.48" smashed="yes" rot="R180">
+<attribute name="VALUE" x="127" y="33.02" size="1.778" layer="96" rot="R180"/>
+</instance>
+<instance part="GND4" gate="1" x="109.22" y="111.76" smashed="yes" rot="R90">
+<attribute name="VALUE" x="111.76" y="109.22" size="1.778" layer="96" rot="R90"/>
+</instance>
+<instance part="R10" gate="R$1" x="185.42" y="25.4" smashed="yes" rot="R270">
+<attribute name="NAME" x="181.61" y="31.369" size="1.778" layer="95"/>
+<attribute name="VALUE" x="181.61" y="29.21" size="1.778" layer="96"/>
+</instance>
+<instance part="R5" gate="R$1" x="124.46" y="20.32" smashed="yes" rot="R180">
+<attribute name="NAME" x="130.429" y="24.13" size="1.778" layer="95" rot="R270"/>
+<attribute name="VALUE" x="128.27" y="24.13" size="1.778" layer="96" rot="R270"/>
+</instance>
+<instance part="D1" gate="G$1" x="45.974" y="119.888" smashed="yes" rot="R180">
+<attribute name="NAME" x="48.514" y="117.348" size="1.27" layer="95" rot="R180"/>
+<attribute name="VALUE" x="48.514" y="123.698" size="1.27" layer="96" rot="R180"/>
+</instance>
 </instances>
 <busses>
 </busses>
