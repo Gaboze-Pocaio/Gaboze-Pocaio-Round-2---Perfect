@@ -191,7 +191,7 @@ C4</text>
 <text x="2" y="18" size="0.8128" layer="22" font="vector" ratio="15" rot="MR0" align="top-right">100K
 150
 100uF
-220pF
+220nF
 1uF
 1uF</text>
 <wire x1="1" y1="19" x2="1" y2="10.5" width="0.1524" layer="22"/>
@@ -37761,7 +37761,7 @@ design rules under a new name.</description>
 <attribute name="VALUE" x="11" y="110.73" size="0.8128" layer="28" font="vector" ratio="15" rot="MR180" align="center"/>
 </element>
 <element name="U1" library="texas" library_urn="urn:adsk.eagle:library:387" package="SOIC8" value="LM4875" x="12" y="6.5" smashed="yes" rot="MR90"/>
-<element name="C2" library="adafruit" library_urn="urn:adsk.eagle:library:420" package="C0805" value="220pF" x="5" y="8" smashed="yes" rot="MR0"/>
+<element name="C2" library="adafruit" library_urn="urn:adsk.eagle:library:420" package="C0805" value="220nF" x="5" y="8" smashed="yes" rot="MR0"/>
 <element name="C3" library="adafruit" library_urn="urn:adsk.eagle:library:420" package="C0805" value="1uF" x="22" y="5" smashed="yes" rot="MR180"/>
 <element name="C4" library="adafruit" library_urn="urn:adsk.eagle:library:420" package="C0805" value="1uF" x="5" y="5" smashed="yes" rot="MR0"/>
 <element name="J2" library="SparkFun-Connectors" library_urn="urn:adsk.eagle:library:513" package="1X02" package3d_urn="urn:adsk.eagle:package:38039/1" value="SPKR" x="48.25" y="7.5" smashed="yes" rot="MR270">
