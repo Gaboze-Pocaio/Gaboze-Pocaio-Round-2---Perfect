@@ -11428,7 +11428,7 @@ FACING AWAY FROM BOARD</text>
 <part name="GND27" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="U$1" library="SparkFun-Retired" library_urn="urn:adsk.eagle:library:533" deviceset="SWITCH_SPDT" device=""/>
 <part name="U1" library="texas" library_urn="urn:adsk.eagle:library:387" deviceset="LM4875" device=""/>
-<part name="C2" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="C-US" device="C0805" value="220pF"/>
+<part name="C2" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="C-US" device="C0805" value="220nF"/>
 <part name="GND29" library="SparkFun-Aesthetics" library_urn="urn:adsk.eagle:library:507" deviceset="GND" device=""/>
 <part name="C3" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="C-US" device="C0805" value="1uF"/>
 <part name="GND35" library="SparkFun-Aesthetics" library_urn="urn:adsk.eagle:library:507" deviceset="GND" device=""/>
